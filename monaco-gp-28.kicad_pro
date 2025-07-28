@@ -95,7 +95,7 @@
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
         "net_conflict": "warning",
-        "nonmirrored_text_on_back_layer": "warning",
+        "nonmirrored_text_on_back_layer": "ignore",
         "npth_inside_courtyard": "ignore",
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
@@ -465,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "monaco-gp.kicad_pro",
+    "filename": "monaco-gp-28.kicad_pro",
     "version": 3
   },
   "net_settings": {

@@ -9,7 +9,7 @@
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "monaco-gp",
+      "Name": "monaco-gp-28",
       "GUID": "6d6f6e61-636f-42d6-9770-2e6b69636164",
       "Revision": "rev?"
     },
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "monaco-gp-F_Cu.gtl",
+      "Path": "monaco-gp-28-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "monaco-gp-B_Cu.gbl",
+      "Path": "monaco-gp-28-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "monaco-gp-F_Paste.gtp",
+      "Path": "monaco-gp-28-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "monaco-gp-B_Paste.gbp",
+      "Path": "monaco-gp-28-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "monaco-gp-F_Silkscreen.gto",
+      "Path": "monaco-gp-28-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "monaco-gp-B_Silkscreen.gbo",
+      "Path": "monaco-gp-28-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "monaco-gp-F_Mask.gts",
+      "Path": "monaco-gp-28-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "monaco-gp-B_Mask.gbs",
+      "Path": "monaco-gp-28-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "monaco-gp-Edge_Cuts.gm1",
+      "Path": "monaco-gp-28-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

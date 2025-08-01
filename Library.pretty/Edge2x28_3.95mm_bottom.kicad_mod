@@ -55,8 +55,8 @@
 	)
 	(attr exclude_from_pos_files exclude_from_bom)
 	(fp_line
-		(start -47.3 9.5)
-		(end -47.3 -0.83)
+		(start -46.8 9.5)
+		(end -46.8 -0.83)
 		(stroke
 			(width 0.5)
 			(type default)
@@ -65,8 +65,8 @@
 		(uuid "711f29cb-ae42-4111-bd08-ce3746475711")
 	)
 	(fp_line
-		(start -44.8 12)
-		(end 64.63 12)
+		(start -44.3 12)
+		(end 64.13 12)
 		(stroke
 			(width 0.5)
 			(type solid)
@@ -75,8 +75,8 @@
 		(uuid "e7b5786f-59a3-4460-8df0-dfa4449f6899")
 	)
 	(fp_line
-		(start 67.13 9.5)
-		(end 67.13 -0.8)
+		(start 66.63 9.5)
+		(end 66.63 -0.8)
 		(stroke
 			(width 0.5)
 			(type default)
@@ -85,9 +85,9 @@
 		(uuid "a06e7215-13ac-4335-afd7-147e82b8c5be")
 	)
 	(fp_arc
-		(start -44.8 12)
-		(mid -46.567767 11.267767)
-		(end -47.3 9.5)
+		(start -44.3 12)
+		(mid -46.067767 11.267767)
+		(end -46.8 9.5)
 		(stroke
 			(width 0.5)
 			(type default)
@@ -96,9 +96,9 @@
 		(uuid "841750e0-b425-42bd-9e31-9cd33f681bf8")
 	)
 	(fp_arc
-		(start 67.13 9.5)
-		(mid 66.397767 11.267767)
-		(end 64.63 12)
+		(start 66.63 9.5)
+		(mid 65.897767 11.267767)
+		(end 64.13 12)
 		(stroke
 			(width 0.5)
 			(type default)
